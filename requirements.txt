@@ -1,0 +1,6 @@
+### dependency
+streamlit
+streamlit_lottie
+
+### local packages -
+-sdae . 
