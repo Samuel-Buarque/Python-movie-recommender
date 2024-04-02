@@ -1,4 +1,4 @@
 ### dependency
-streamlit
-streamlit_lottie
+###streamlit
+###streamlit_lottie
 
