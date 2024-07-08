@@ -12,4 +12,4 @@ About the project
 <h2>How to use</h2>
 <p>write a movie name on the search bar and choose it, then the bot will recommend to you 5 movies related or simillar to the chossed one</p>
 
-deployed link:[Movie recommender](https://python-movie-recommender-rs5jppkdkufqixpnlqpg8k.streamlit.app/) (maybe you will have to wait some minutes to it bootup)
+deployed link: [Movie recommender](https://python-movie-recommender-rs5jppkdkufqixpnlqpg8k.streamlit.app/) (maybe you will have to wait some minutes to it bootup)
